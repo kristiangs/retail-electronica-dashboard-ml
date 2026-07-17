@@ -143,8 +143,8 @@ Python (pandas, numpy, Faker, scikit-learn) · Excel (Power Query, Power Pivot, 
 
 - No hay columna de stock en tiempo real — la cobertura de stock es una aproximación, documentada como tal.
 - El modelo de forecasting no se compara todavía contra una línea base ingenua (ej. "igual que el mes anterior"); sería el siguiente paso para cuantificar cuánto valor agrega el modelo.
-- El reporte vive como archivo `.pbix`; publicarlo en Power BI Service permitiría compartirlo sin requerir Power BI Desktop instalado.
+- El reporte vive como archivo `.pbix` y se comparte directamente — no está publicado en Power BI Service, así que para abrirlo hace falta Power BI Desktop instalado.
 
 ---
 
-*Proyecto de portafolio — [Cristian]. Parte de una serie de proyectos de análisis de datos que cubren distintos dominios (retail, movilidad urbana, on-chain) para demostrar adaptabilidad a distintos contextos de negocio con las mismas herramientas y criterio analítico.*
+*Proyecto de portafolio — Cristian Guevara. Parte de una serie de proyectos de análisis de datos que cubren distintos dominios (retail, movilidad urbana, análisis de datos del sector blockchain) para demostrar adaptabilidad a distintos contextos de negocio con las mismas herramientas y criterio analítico.*
