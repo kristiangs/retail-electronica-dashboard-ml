@@ -1,0 +1,25 @@
+# Archivos temporales de Office (Excel, Word, PowerPoint)
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.pptx
+*.tmp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+venv/
+env/
+.venv/
+
+# Backups y versiones de prueba
+*.bak
+*_old.*
+*_backup.*
